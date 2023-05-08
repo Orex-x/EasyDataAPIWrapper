@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyDataApiWrapper", "EasyDataApiWrapper\EasyDataApiWrapper.csproj", "{9BF21C5C-2B2A-4F14-9BFF-30CBAF3663EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BF21C5C-2B2A-4F14-9BFF-30CBAF3663EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BF21C5C-2B2A-4F14-9BFF-30CBAF3663EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BF21C5C-2B2A-4F14-9BFF-30CBAF3663EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BF21C5C-2B2A-4F14-9BFF-30CBAF3663EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBD8851B-B214-47A2-BC77-3EA8B1C85707}
+	EndGlobalSection
+EndGlobal
